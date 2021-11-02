@@ -1,0 +1,2 @@
+Esto unicamente es una prueba de como crear un fichero a través
+de la interfaz grafica de GitHub.
